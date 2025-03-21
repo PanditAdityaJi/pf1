@@ -1,4 +1,4 @@
-
+---
 title: Mine Safety: Monitoring and Controlling 
 description: Designed custom safety protocols for predictive hazard detection in mining environment.
 publishDate: 'mar 28 2024'
