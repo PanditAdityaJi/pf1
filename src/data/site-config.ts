@@ -72,7 +72,7 @@ const siteConfig: SiteConfig = {
         },
         {
             text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
+            href: 'https://github.com/'
         }
     ],
     socialLinks: [
@@ -104,7 +104,7 @@ const siteConfig: SiteConfig = {
         ]
     },
     subscribe: {
-        title: 'Subscribe to Dante Newsletter',
+        title: 'Subscribe to Darth Newsletter',
         text: 'One update per week. All the latest posts directly in your inbox.',
         formUrl: '#'
     },
