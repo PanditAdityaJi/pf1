@@ -1,11 +1,12 @@
 ---
-title: Mine Safety: Monitoring and Controlling 
-description: Designed custom safety protocols for predictive hazard detection in mining environment.
-publishDate: 'mar 28 2024'
+title: FitQuest - AR Fitness Adventure Game
+description: This web application encourages users to embark on thrilling adventures, complete challenges, and achieve fitness goals in an engaging virtual environment.
+publishDate: 'Dec 28 2023'
 seo:
   image:
     src: '/project-6.jpg'
 ---
+
 
 ![Project preview](/project-6.jpg)
 
