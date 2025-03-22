@@ -15,4 +15,4 @@ Designed a waste management solution with 3 separate sections for different mate
 
 
 ## Github Repo
-> https://github.com/LoneBub/Mine-Safety
+> https://github.com/PanditAdityaJi/DumpIt
