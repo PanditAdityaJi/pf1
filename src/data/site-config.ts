@@ -77,12 +77,12 @@ const siteConfig: SiteConfig = {
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
+            text: 'linkedin',
+            href: 'https://www.linkedin.com/in/aditya-sharma-ji/'
         },
         {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
+            text: 'Github',
+            href: 'https://github.com/PanditAdityaJi'
         },
         {
             text: 'X/Twitter',
