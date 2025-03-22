@@ -13,8 +13,6 @@ const seoSchema = z.object({
     pageType: z.enum(['website', 'article']).default('website')
 });
 
-});
-
 const pages = defineCollection({
     loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/pages' }),
     schema: z.object({
