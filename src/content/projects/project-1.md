@@ -13,13 +13,13 @@ seo:
 
 
 **Project Overview:**
-  Aqua2.
-
+  This project is a robotic arm controlled by an STM32 microcontroller with STM32F4xx Microcontroller, MG996R Servo Motors and Manual, automated, and remote control
 ## Objectives
 
-1. Develop a user-friendly mobile app that motivates individuals to adopt sustainable practices in their daily live.
+1. The system is designed for precision movement and automation.
+2. leveraging Embedded firmware and real-time control algorithms.
 
 
 ## Github Repo
 
-> We couldn't be happier with the results delivered by Ethan Donovan. From the initial concept discussions to the final product, their responsiveness and collaborative approach were impressive. Our startup's website now stands out, thanks to their creative input and commitment to excellence.
+> https://github.com/PanditAdityaJi/STM32-Robotic-Arm.
