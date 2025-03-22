@@ -12,15 +12,14 @@ seo:
 
 
 **Project Overview:**
-CryptoTrader Dashboard is a comprehensive web application designed to empower cryptocurrency enthusiasts with tools to manage and optimize their digital asset portfolios. By providing real-time market data, analytics, and portfolio tracking, the dashboard offers a seamless experience for users to monitor and enhance their cryptocurrency investments.
-
+Software-defined radio is a paradigm where radio communication system components that have typically been implemented in hardware (e.g., mixers, filters, amplifiers, modulators/demodulators) are instead implemented by means of software on a personal computer or embedded system.
 ## Objectives
 
-1. Develop a user-friendly and feature-rich dashboard that consolidates real-time data from various cryptocurrency exchanges.
-2. Provide tools for users to analyze market trends, track their portfolio performance, and make informed investment decisions.
-3. Create a secure and efficient platform that ensures users have a holistic view of their cryptocurrency holdings.
+1. Develop a modular and flexible SDR implementation.
+2. Replace traditional hardware with software solutions for radio processing.
+3. Provide a base for further research and development in the field of SDR.
 
 
 ## Github Repo
 
-CryptoTrader Dashboard has become a trusted companion for cryptocurrency investors, offering a consolidated and user-friendly platform for managing their portfolios. The robust analytics, real-time market data, and risk management tools empower users to make informed decisions and navigate the dynamic world of cryptocurrency with confidence.
+> https://github.com/PanditAdityaJi/SDR
