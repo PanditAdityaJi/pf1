@@ -37,6 +37,4 @@ I believe in the power of collaboration and effective communication. Whether wor
 
 ## Get in Touch
 
-Are you looking to elevate your online presence or bring your digital ideas to life? I'd love to hear from you! Feel free to reach out for collaboration, consultation, or just a friendly chat about all things web development.
-
 _Let's build something amazing together!_
