@@ -27,7 +27,7 @@ I have hands-on experience with FPGA-based, real-time SDR systems, and biosensor
 
 1. A research assistant/intern position at a Semiconductor, Embedded(RF/Analog), or Physics(Plasma/Nuclear) area
    
-2 . If you want to collaborate on research papers, Articles, etc
+2. If you want to collaborate on research papers, Articles, etc
 
 3. Cool Projects
 
