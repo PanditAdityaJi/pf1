@@ -15,4 +15,4 @@ Designed a waste management solution with 3 separate sections for different mate
 
 
 ## Github Repo
-> https://github.com/PanditAdityaJi/DumpIt
+> https://github.com/Mohak327/DumpIt-2.0
