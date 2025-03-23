@@ -20,13 +20,15 @@ Expertise spanning worked on CNT in **Nanotech**, Designing circuits for **RF** 
 
 ## Innovation and Problem-Solving
 
-I have hands-on experience with FPGA-based, real-time SDR systems, and biosensors. I leverage testing simulation environments like TCAD for biosensors, and open Monte Carlo methods to design, analyze, and optimize complex systems of nuclear reactors.
+I have hands-on experience with FPGA-based, real-time SDR systems, and biosensors. I leverage testing simulation environments like TCAD for biosensors and open Monte Carlo methods to design, analyze, and optimize complex systems of nuclear reactors.
 
 
 ## Interested/Open to:
 
 1. A research assistant/intern position at a Semiconductor, Embedded(RF/Analog), or Physics(Plasma/Nuclear) area
-2 .If you want to collaborate on research papers, Articles, etc
+   
+2 . If you want to collaborate on research papers, Articles, etc
+
 3. Cool Projects
 
 ## Collaboration and Communication
