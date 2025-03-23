@@ -25,6 +25,5 @@ The Mine Safety  system represents a significant advancement in mining safety te
 
 > https://github.com/LoneBub/Mine-Safety
 
-FitQuest has transformed the fitness landscape by merging physical activity with immersive gaming experiences. Users not only enjoy staying active but also find motivation in the storyline and challenges, creating a unique and entertaining approach to maintaining a healthy lifestyle.
 
 
