@@ -91,7 +91,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Hi There & Welcome to My Corner of the circuits!',
-        text: "I'm **Aditya Sharma**, a core electrical engineer with a deep passion for technology and innovation. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/PanditAdityaJi'>GitHub</a> or follow me on <a href='https://x.com/Pt_AdityaSharma'>Twitter/X</a>.",
+        text: "I'm **Aditya Sharma**, a core electro engineer with a deep passion for technology and innovation. My approach involves embracing intuition and conducting just enough research, for a better solution. Feel free to explore some of my coding endeavors on <a href='https://github.com/PanditAdityaJi'>GitHub</a> or follow me on <a href='https://x.com/Pt_AdityaSharma'>Twitter/X</a>.",
         image: {
             src: '/hero.jpeg',
             alt: 'A person sitting at a desk in front of a computer'
@@ -104,8 +104,8 @@ const siteConfig: SiteConfig = {
         ]
     },
     subscribe: {
-        title: 'Subscribe to Darth Newsletter',
-        text: 'One update per week. All the latest posts directly in your inbox.',
+        title: 'Subscribe to Aditya Newsletter',
+        text: 'Will start soon. All the latest posts directly in your inbox.',
         formUrl: '#'
     },
     postsPerPage: 8,
