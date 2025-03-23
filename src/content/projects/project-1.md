@@ -1,6 +1,6 @@
 ---
 title: 'Gesture-Controlled STM Robotic Arm '
-description: STM32.
+description: STM32 based Robotic arm designed and simulated in Ros
 publishDate: 'Jan 02 2024'
 seo:
   image:
