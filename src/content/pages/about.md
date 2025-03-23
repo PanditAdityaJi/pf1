@@ -11,23 +11,23 @@ seo:
 ![Alt text for image](/about.jpeg)
 
 
-## Aditya Sharma - Electrical Grad
+## Aditya Sharma - Electronics Grad
 
-**Greetings!** I'm Aditya Sharma, a  core electrical engineer with a deep passion for technology and innovation.
+**Greetings!** I'm Aditya, a  core electronics & electrical engineer with a deep passion for technology and innovation.
 ## Skills and Expertise
 
-Expertise spanning robotics, IoT, nanotechnology, **RF** and **analog circuit design**, and **embedded systems**, complemented by a strong foundation in classical, nuclear, and plasma physics. Proficient in simulation environments including ROS, Gazebo, and open Monte Carlo methods, enabling robust design and analysis across diverse technological domains.
+Expertise spanning worked on CNT in **Nanotech**, Designing circuits for **RF** & **Analog** systems, to work with firmware, RTOS, and protocols of **Embedded systems**, and enhancing **Robot Choreography** in robotics, also complemented by a strong foundation in **Nuclear**, and **Plasma** physics. Proficient in simulation environments enabling robust design and analysis across diverse technological domains.
 
 ## Innovation and Problem-Solving
 
-I have hands-on experience with FPGA-based AI, real-time SDR systems, and biosensors. I leverage simulation environments like ROS, Gazebo, and open Monte Carlo methods to design, analyze, and optimize complex systems efficiently.
-## Global Perspective, Local Impact
+I have hands-on experience with FPGA-based, real-time SDR systems, and biosensors. I leverage testing simulation environments like TCAD for biosensors, and open Monte Carlo methods to design, analyze, and optimize complex systems of nuclear reactors.
 
-Living in Estonia has not only influenced my appreciation for nature and culture but has also shaped my approach to web development. I understand the importance of creating digital solutions that resonate with local audiences while maintaining a global perspective.
 
-## Continuous Learning
+## Interested/Open to:
 
-The dynamic nature of the tech industry inspires me to stay up-to-date with the latest trends and advancements. I'm always eager to expand my skill set and embrace emerging technologies that enhance the functionality and aesthetics of the websites I create.
+A research assistant/intern position at a Semiconductor, Embedded(RF/Analog), or Physics(Plasma/Nuclear) area.
+If you want to collaborate on research papers, Articles, etc.
+Cool Projects.
 
 ## Collaboration and Communication
 
